@@ -1,7 +1,0 @@
-using System;
-public class Contoh
-{ public static void Main(string[] args)
-    {
-        Console.WriteLine("Hello, World!");
-    }
-}
