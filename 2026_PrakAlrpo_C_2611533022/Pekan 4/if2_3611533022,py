@@ -1,0 +1,13 @@
+# Buat file dengan nama if2_NIM.py
+# Buat program untuk kondisional if
+# Nama variabel ditambah 4 angka terakhir NIM, contoh: ipk_1234
+# Program ini menggunakan fungsi input
+
+ipk_3022 = float(input("Masukkan ipk anda: "))
+
+if ipk_3022 > 2.75:
+    print("Anda lulus sangat memuaskan dengan ipk" + str(ipk_3022))
+else:
+    print("Anda dinyatakan tidak lulus. Sekarang angkat kaki dari kampus kami.")
+
+print("Program selesai")
